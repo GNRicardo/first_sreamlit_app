@@ -45,7 +45,7 @@ except URLError as e:
   stramlit.error()
 
 
-streamlit.stop()
+#streamlit.stop()
 
 
 #import snowflake.connector
